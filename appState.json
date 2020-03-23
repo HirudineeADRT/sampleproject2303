@@ -11,8 +11,8 @@
         "isRemovable": true,
         "filePath": "sampleproject2303.js",
         "cursor": {
-          "lineNumber": 1,
-          "column": 1
+          "lineNumber": 13,
+          "column": 67
         },
         "config": {
           "runtime": "nodejs8",
@@ -105,7 +105,7 @@
     "platform": "GCP",
     "language": "nodejs",
     "platformRegions": {},
-    "lastSave": 1584937193357
+    "lastSave": 1584937548126
   },
   "VCS_STATE": {
     "provider": "GitHub",
